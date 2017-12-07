@@ -1,3 +1,5 @@
+//Ver1.0.0
+
 namespace hoge
 {
     static main ()
