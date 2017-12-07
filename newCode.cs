@@ -4,4 +4,9 @@ namespace hoge
     {
       System.Console.WriteLine("hoge");
     }
+    
+    static void FeatureFuncA()
+    {
+        System.Console.WriteLine("A");
+    }
 }
