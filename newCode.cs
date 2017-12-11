@@ -4,7 +4,7 @@ namespace hoge
 {
     static main ()
     {
-      System.Console.WriteLine("hoge");
+      System.Console.WriteLine("piyo");
     }
     
     static void FeatureFuncA()
