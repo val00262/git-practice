@@ -21,4 +21,9 @@ namespace hoge
     {
       System.Console.WriteLine("C");
     }
+    
+    static void FeatureFuncD()
+    {
+      System.Console.WriteLine("C");
+    }
 }
