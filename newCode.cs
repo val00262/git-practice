@@ -1,10 +1,10 @@
-//Ver1.0.0
+//Ver1.0.1
 
 namespace hoge
 {
     static main ()
     {
-      System.Console.WriteLine("hoge");
+      System.Console.WriteLine("piyo");
     }
     
     static void FeatureFuncA()
