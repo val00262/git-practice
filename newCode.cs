@@ -1,4 +1,4 @@
-//Ver1.1.0
+//Ver1.2.0
 
 namespace hoge
 {
