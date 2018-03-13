@@ -36,4 +36,9 @@ namespace hoge
     {
       System.Console.WriteLine("f");
     }
+    
+    static void FeatureFuncG()
+    {
+      System.Console.WriteLine("g");
+    }
 }
