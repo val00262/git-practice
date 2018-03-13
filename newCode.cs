@@ -1,4 +1,4 @@
-//Ver1.2.0
+//Ver1.3.0
 
 namespace hoge
 {
@@ -30,5 +30,15 @@ namespace hoge
     static void FeatureFuncD()
     {
       System.Console.WriteLine("d");
+    }
+
+    static void FeatureFuncF()
+    {
+      System.Console.WriteLine("f");
+    }
+
+    static void FeatureFuncG()
+    {
+      System.Console.WriteLine("g");
     }
 }
