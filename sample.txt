@@ -1,9 +1,1 @@
-1. こんな風にテキストを書いてみましょう
-2. 数字付きでやってるといい感じに競合が起きるので適時直してみてください
-3. ダメになったら消せばいいので
-4. 試しにプルリクエストとか出すといいと思う
-5. テレサちゃん♪
-6. [俳句]GitHub sourceforgeと どう違う
-7. KAWASAKI NINJA ZX-10R
-8. HONDA CBR1000RR FireBlade
-10.YAMAHA YZF-R1
+KAWASAKI NINJA ZX-10R
