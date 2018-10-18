@@ -1,0 +1,4 @@
+function UtilityA()
+{
+  return Data;
+}
